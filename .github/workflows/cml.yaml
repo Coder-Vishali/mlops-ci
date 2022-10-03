@@ -13,4 +13,4 @@ jobs:
           # Your ML workflow goes here
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-          python main.py
+          python linear_regression_model.py
